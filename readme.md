@@ -23,12 +23,8 @@
 
 -------------
 
-[링크입니다(네이버 - 새창열림)](https://www.naver.com){:target="_blank"}
+<a href="http://example.com/" target="_blank">example</a>
 
-----------
-
-
-[건망증이 심한 엔지니어](https://techstock.biz){:target="_blank"}
 
 
 **안녕**하세요.
