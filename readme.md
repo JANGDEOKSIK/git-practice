@@ -21,7 +21,7 @@
 
 [링크입니다(네이버)](https://www.naver.com)
 
-<https://www.naver.com>{: target="_blank"}
+[네이버](naver.com){: target="_blank"}
 
 -------------
 
