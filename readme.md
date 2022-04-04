@@ -4,7 +4,7 @@
 ### h3 ABCD1234(4~6은 사이즈 동일)
 
 > blockqqqqqqq  
-> 1223131#
+> 1223131  
 > dfsdfsdfsdfd  
 > ㄴㄹㄴㅇㄹㄴㄹㄴㅇㄹㄴㅇㄹ
 
