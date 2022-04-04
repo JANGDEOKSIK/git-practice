@@ -15,7 +15,8 @@
 
 `overflow: hidden`을 사용해보세요
 -------------
-[링크입니다](https://www.naver.com)
+[링크입니다(네이버)](https://www.naver.com)
+[링크입니다(네이버 - 새창열림)](https://www.naver.com){:target="_blank"}
 
 **안녕**하세요.
 
