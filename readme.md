@@ -21,6 +21,8 @@
 
 [링크입니다(네이버)](https://www.naver.com)
 
+<https://www.naver.com>{: target="_blank"}
+
 -------------
 
 <a href="http://example.com/" target="_blank">example</a>
